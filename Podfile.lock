@@ -1,0 +1,28 @@
+PODS:
+  - Gifu (3.3.1)
+  - SideMenu (6.5.0)
+  - SnapKit (5.6.0)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Gifu
+  - SideMenu
+  - SnapKit
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Gifu
+    - SideMenu
+    - SnapKit
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Gifu: 416d4e38c4c2fed012f019e0a1d3ffcb58e5b842
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: d15943e06b75f20e12d874f5c9f2bc3aa142f228
+
+COCOAPODS: 1.11.3
